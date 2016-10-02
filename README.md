@@ -2,6 +2,17 @@
 
 A Medical Clinic Database Management System Project for the Database Management Systems course.
 
+Coded with mySQL, PHP and JavaScript.
+
+Functionalities:
+- Login System for Doctors, Employees and Patients
+- Patient Calendar
+- Doctor Appointment Management
+- Inventory Management
+- Supplies Management
+- Billing Management
+- Drug Management
+
 ### Contributors:
 
 - [Luke Toenjes](https://github.com/lrtoenjes)
