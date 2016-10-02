@@ -7,6 +7,7 @@ Coded with mySQL, PHP and JavaScript.
 Functionalities:
 - Login System for Doctors, Employees and Patients
 - Patient Calendar
+- Patient Scheduler
 - Doctor Appointment Management
 - Inventory Management
 - Supplies Management
